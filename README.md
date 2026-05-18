@@ -59,3 +59,5 @@ The goal is to analyze customer behavior, sales performance, product trends, and
 
 ## 📌 Dataset
 Brazilian E-commerce Public Dataset (Olist)
+Kaggle : [https://www.kaggle.com/code/kabure/simple-eda-sales-and-customer-patterns/input]
+
